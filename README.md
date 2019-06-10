@@ -2,7 +2,7 @@
 
 ## vim-teste
 
-### v0.1.0
+### v0.2.0
 
 ---
 
@@ -34,4 +34,17 @@ Inicialmente eu não queria instalar nenhum plugin até aprender muitos comandos
 
 E estes foram os primeiros dias utilizando o VIM. Comecei um projetinho pra pegar a imagem da webcam com Javascript e tirar uma foto em Base64. Trabalhei quase um dia inteiro em um painel frontend que está adiantado dentro do prazo. E pra finalizar estou pensando em arrancar as setas to teclado, pois toda hora vou com a mão nelas para fazer a navegação no texto.
 
+## DEPOIS DO PRIMEIRO MÊS
+
+Depois do primeiro mês, talvez o segundo ou terceiro, estou utilizando bastante `o`, `O` para entrar na linha correta no modo de inserção.
+
+Estou também utilizando o `yy`, `p`, `P` e `dd` para copiar, recortar e colar.
+
+Tenho familiaridade com o `x`, mas tenho que descobrir outras maneiras de apagar textos. Estou fazendo substituições com o `r` e também com `ci`.
+
+Navego na linha com `i`, `I`, `a` e `A`, também estou usando o `cc` para reescrever uma linha inteira.
+
+Outro comando que aprendi com um erro foi o `Ctrl + a` para incrementar números, por este aprendi também o `Ctrl + x` para fazer o decremento.
+
 > (c)2019 - Estúdio Digital Bocca
+
