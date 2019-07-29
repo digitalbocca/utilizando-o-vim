@@ -2,7 +2,7 @@
 
 ## vim-teste
 
-### v0.2.0
+### v0.3.0
 
 ---
 
@@ -45,6 +45,14 @@ Tenho familiaridade com o `x`, mas tenho que descobrir outras maneiras de apagar
 Navego na linha com `i`, `I`, `a` e `A`, também estou usando o `cc` para reescrever uma linha inteira.
 
 Outro comando que aprendi com um erro foi o `Ctrl + a` para incrementar números, por este aprendi também o `Ctrl + x` para fazer o decremento.
+
+## APÓS ALGUNS MESES
+
+Não tenho aprendido muitos novos comando ou atalhos, mas estou usando mais o `C` para apagar o restante da linha que estou editando.
+
+Outro atalho que não utilizava até então é o `<<` e `>>` relacionado a indentação.
+
+Depois que decorei o atalho `zz` no modo NORMAL, toda hora utilizo para deixar a linha que estou editando no meio da tela.
 
 > (c)2019 - Estúdio Digital Bocca
 
