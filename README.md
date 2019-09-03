@@ -2,7 +2,7 @@
 
 ## vim-teste
 
-### v0.3.0
+### v0.4.0
 
 ---
 
@@ -54,5 +54,10 @@ Outro atalho que não utilizava até então é o `<<` e `>>` relacionado a inden
 
 Depois que decorei o atalho `zz` no modo NORMAL, toda hora utilizo para deixar a linha que estou editando no meio da tela.
 
-> (c)2019 - Estúdio Digital Bocca
+## INÍCIO DE SETEMBRO DE 2019
 
+Apesar de não aprender nada novo, não preciso pensar para usar os atalhos que já aprendi. Tudo acontece de forma automática. Quando uso editores que não tem os atalhos fico completamente perdido. Minha maior dificuldade em outros editores é a navegação e o atalho para salvar.
+
+Desabilitei a permutação de `ESC` com `CAPS LOCK` pois em muitos programas que uso não estava funcionando. Um exemplo é o vscode que não entendia o `CAPS LOCK` como `ESC` mas ativava a caixa alta com o `ESC` me forçando a usar `Ctrl` + `c` para ir para o modo NORMAL.
+
+> (c)2019 - Estúdio Digital Bocca
