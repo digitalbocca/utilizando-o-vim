@@ -2,7 +2,7 @@
 
 ## vim-teste
 
-### v0.4.0
+### v0.5.0
 
 ---
 
@@ -60,4 +60,12 @@ Apesar de não aprender nada novo, não preciso pensar para usar os atalhos que 
 
 Desabilitei a permutação de `ESC` com `CAPS LOCK` pois em muitos programas que uso não estava funcionando. Um exemplo é o vscode que não entendia o `CAPS LOCK` como `ESC` mas ativava a caixa alta com o `ESC` me forçando a usar `Ctrl` + `c` para ir para o modo NORMAL.
 
-> (c)2019 - Estúdio Digital Bocca
+## JANEIRO DE 2020
+
+Não aprendi novos comandos, estes meses ando com muito trabalho atrasado. Mas, cada vez mais, tenho dificuldades em escrever fora do editor. Seja em caixas de texto no navegados ou na linha de comando eu fico tentando usar as teclas de navegação do vim.
+
+Espero este mês treinar novos atalhos, pois ainda repito muitas vezes alguns comandos e tenho quase certeza que estou fazendo algo errado nestes momentos.
+
+Quero treinar também o modo VISUAL, pois tenho dificuldade na seleção de textos. Outra dificuldade que tenho é para recortar ou copiar pequenos pedaços de uma linha, atualmente eu copio a linha inteira e apago o que está a mais.
+
+> (c)2019-2020 Estúdio Digital Bocca
