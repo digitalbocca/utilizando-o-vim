@@ -68,4 +68,8 @@ Espero este mês treinar novos atalhos, pois ainda repito muitas vezes alguns co
 
 Quero treinar também o modo VISUAL, pois tenho dificuldade na seleção de textos. Outra dificuldade que tenho é para recortar ou copiar pequenos pedaços de uma linha, atualmente eu copio a linha inteira e apago o que está a mais.
 
+## MARÇO DE 2020
+
+Não fiz novos avanços no uso do VIM.
+
 > (c)2019-2020 Estúdio Digital Bocca
