@@ -72,4 +72,8 @@ Quero treinar também o modo VISUAL, pois tenho dificuldade na seleção de text
 
 Não fiz novos avanços no uso do VIM.
 
+## AGOSTO DE 2020
+
+Não fiz novos avanços no uso do VIM.
+
 > (c)2019-2020 Estúdio Digital Bocca
