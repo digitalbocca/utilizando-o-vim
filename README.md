@@ -2,7 +2,7 @@
 
 ## vim-teste
 
-### v0.5.0
+### v0.6.0
 
 ---
 
@@ -76,4 +76,4 @@ Não fiz novos avanços no uso do VIM.
 
 Não fiz novos avanços no uso do VIM.
 
-> (c)2019-2020 Estúdio Digital Bocca
+> (c)2019-2021 Estúdio Digital Bocca
